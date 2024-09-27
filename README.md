@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhabinalam&label=Profile%20views&color=0e75b6&style=flat" alt="talhabinalam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mdtalhabinalam.pythonanywhere.com](https://mdtalhabinalam.pythonanywhere.com)
+- 👨‍💻 Learn more about me: [https://mdtalhabinalam.pythonanywhere.com](https://mdtalhabinalam.pythonanywhere.com)
 
-- 💬 Ask me about **Python, Django & RESTful API**
+- 💬 Ask me about: **Python, Django & RESTful API**
 
-- 📫 How to reach me **mdtalhabinalam@gmail.com**
+- 📫 How to reach me: **mdtalhabinalam@gmail.com**
 
-- ⚡ Fun fact **I love to discuss**
+- ⚡ Fun fact: **I love discussing new ideas and tech trends!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
