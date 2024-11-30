@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha-Bin-Alam</h1>
 <h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhabinalam&label=Profile%20views&color=0e75b6&style=flat" alt="talhabinalam" /> </p>
 
 - 👨‍💻 Learn more about me: [https://mdtalhabinalam.pythonanywhere.com](https://mdtalhabinalam.pythonanywhere.com)
 
